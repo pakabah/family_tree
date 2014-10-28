@@ -53,6 +53,9 @@ parent(lewis,lewisJnr).
 parent(nampar,mavis).
 parent(nampar,lewis).
 
+parent(maabi,mavis).
+parent(maabi,lewis).
+
 husband(max,jessy).
 husband(stallin,miriam).
 husband(john,mavis).
